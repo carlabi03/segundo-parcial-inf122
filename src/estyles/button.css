@@ -1,8 +1,8 @@
 :root {
-  --orange: #141313;
-  --white: #DCDCE5;
-  --sm: 24px;}
-
+  width: 1280px;
+  height: 625px;
+  background: #1B1C1F;
+ 
 
 /*boton agregar*/
 button{
